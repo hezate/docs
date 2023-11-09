@@ -1,4 +1,4 @@
-pages:
-    - getting-started.md
+documents:
+    - introduction.md
     - global-objects.md
     - types.md
