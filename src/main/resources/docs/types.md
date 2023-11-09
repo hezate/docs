@@ -2,8 +2,6 @@
 title: Types
 ---
 
-# Types
-
 ## Module
 
 ### Methods
