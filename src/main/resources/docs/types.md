@@ -4,6 +4,6 @@ title: Types
 
 ## Module
 
-### Methods
+### Functions
 
-`String getName();`
+`getName(): string`

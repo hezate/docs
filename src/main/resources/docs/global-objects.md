@@ -4,6 +4,6 @@ title: Global Objects
 
 ## ModuleManager
 
-### Methods
+### Functions
 
-`Module getModules();`
+`getModules(): Module[]`
