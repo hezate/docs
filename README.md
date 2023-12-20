@@ -1,1 +1,1 @@
-./src/main/resources/docs/introduction.md
+src/main/resources/docs/introduction.md
